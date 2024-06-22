@@ -1,0 +1,4 @@
+[debug] [keyspaces-parquet-build] Classpath dependencies List()
+[debug] [keyspaces-parquet-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'keyspaces-parquet-build' to '/private/var/folders/75/7280jgqx50vclm6n4_hc9lz40000gp/T/keyspaces-parquet/project/.bloop/keyspaces-parquet-build.json'
+[success] Generated .bloop/keyspaces-parquet-build.json
